@@ -192,7 +192,7 @@ For demonstration:
                 "amount": 450,
                 "address": "0423141eab6d1875ae22a96dac794328ba962913bdbbb6a7e1c9cfb4ffd0e7989fac58a722d79b4a5891fb8875831e20e9e54e58856ac074ef15eb7d6ef3a0a761"
             },
-.....
+
   ```
 - Mine transactions to add rewards to the Miners
  
@@ -233,7 +233,7 @@ For demonstration:
                         "amount": 450,
                         "address": "0423141eab6d1875ae22a96dac794328ba962913bdbbb6a7e1c9cfb4ffd0e7989fac58a722d79b4a5891fb8875831e20e9e54e58856ac074ef15eb7d6ef3a0a761"
                     },
-.....
+
   ```
 # Integration Tests
 
