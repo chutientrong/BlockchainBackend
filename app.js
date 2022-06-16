@@ -1,8 +1,6 @@
 const express    = require('express');
 const bodyParser = require('body-parser');
 
-const path = require('path');
-const router = express.Router();
 const Blockchain      = require('./lib/blockchain/blockchain');
 const P2pServer       = require('./server/p2p-server');
 const Wallet          = require('./lib/wallet/wallet');
